@@ -16,6 +16,6 @@ That’s a large decrease from the 20 GPIO pins from the ESP32 boards used in th
 The L293D h-bridge chips in the old design take a lot of pins, if I used a motor driver chip with a serial interface, I could save pins for controlling servos.
 After looking at a few options I found the Trinamic TMC7300. https://www.analog.com/en/products/tmc7300.html
 Each driver can control 2 motors, and up to 4 drivers can be controlled from just two pins from the QT Py.
-This means the new design can control 8 servos and 8 motors. Because 8 bits is a byte and the boards are small and bite sized I named these boards RCM BYTE.
+This means the new design can control 8 motors and still have enough pins to also run 8 servos. Because 8 bits is a byte and the boards are small and bite sized I named these boards RCM BYTE.
 
 ![11020293](https://github.com/RCMgames/RCM-Hardware-BYTE/assets/59814881/c987c97d-4fd9-44b2-9f5a-b85f4dfdcac6)
