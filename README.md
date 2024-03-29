@@ -7,7 +7,7 @@
 * 8 servos
 * battery monitoring
 * I2C connector on QT PY
-* runs from 3-11 volts
+* runs on 3-11 volts
 
 Starting in fall 2023 I started thinking about making a smaller [RCM board](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide/tree/v1/Robot%20Control%20Module/circuit%20diagram%20and%20fritzing%20design).
 I wanted to find a microcontroller board that includes an esp32 chip instead of using an esp32 chip directly, in order to keep the project simpler and more likely to work – I didn’t want to have to design a circuit with an antenna.
