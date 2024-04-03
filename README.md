@@ -14,6 +14,8 @@ Look here for more information and examples of robots: https://github.com/rcmgam
 ![image of computer model of the board from the top](https://github.com/RCMgames/RCM-Hardware-BYTE/blob/067e820301f93f17813f3cc500efb27105b1fbe3/pictures/render%203.jpg)
 ![image of computer model of the board from the bottom](https://github.com/RCMgames/RCM-Hardware-BYTE/blob/067e820301f93f17813f3cc500efb27105b1fbe3/pictures/render%202.jpg)
 
+To get boards made, send the "gerbers rcm hardware byte v2.1.zip" "RCMhardwareByte-all.pos" and "RCMhardwareByteBOM.csv" to a company like PCBWay.
+
 Starting in fall 2023 I started thinking about making a smaller [RCM board](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide/tree/v1/Robot%20Control%20Module/circuit%20diagram%20and%20fritzing%20design).
 I wanted to find a microcontroller board that includes an esp32 chip instead of using an esp32 chip directly, in order to keep the project simpler and more likely to work – I didn’t want to have to design a circuit with an antenna.
 I found the Adafruit QT Py esp32 board that’s tiny (about the size of lots of bare esp32 modules) and still has 13 GPIO pins.
