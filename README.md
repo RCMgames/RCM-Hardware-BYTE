@@ -11,6 +11,8 @@ Look here for how to program it: https://github.com/RCMgames/RCMv2
 
 Look here for more information and examples of robots: https://github.com/rcmgames
 
+Want slightly smaller with a built in IMU? Look at the [Nibble](https://github.com/RCMgames/RCM-Hardware-Nibble)
+
 ![image of computer model of the board from the top](https://github.com/RCMgames/RCM-Hardware-BYTE/blob/067e820301f93f17813f3cc500efb27105b1fbe3/pictures/render%203.jpg)
 ![image of computer model of the board from the bottom](https://github.com/RCMgames/RCM-Hardware-BYTE/blob/067e820301f93f17813f3cc500efb27105b1fbe3/pictures/render%202.jpg)
 
