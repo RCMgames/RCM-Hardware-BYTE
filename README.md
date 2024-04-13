@@ -7,6 +7,13 @@
 * I2C connector on QT PY
 * runs on 3-11 volts
 
+Tested with the following types of ESP32 QT Py:
+| Type of Qt Py | PlatformIO name | link to Adafruit |
+| ------ | -------- | -------- |
+| S3 with 2MB PSRAM |  adafruit_qtpy_esp32s3_n4r2   |  https://www.adafruit.com/product/5700   |
+| S3 with 8Mb Flash |  adafruit_qtpy_esp32s3_nopsram   |  https://www.adafruit.com/product/5426   |
+| S2 |  adafruit_qtpy_esp32s2   |  https://www.adafruit.com/product/5325  |
+
 Look here for how to program it: https://github.com/RCMgames/RCMv2
 
 Look here for more information and examples of robots: https://github.com/rcmgames
