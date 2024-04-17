@@ -1,4 +1,7 @@
 # RCM-Hardware-BYTE
+v2.2
+
+UNDER DEVELOPMENT
 
 * 1.25x1.25 inches
 * 8 motors
