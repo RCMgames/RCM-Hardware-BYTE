@@ -1,0 +1,54 @@
+### Footprint positions - created on Wed Apr 17 23:06:39 2024 ###
+### Printed by KiCad version 7.0.8
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                                      Package                                     PosX       PosY       Rot  Side
+C1        100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        26.9748    -3.1750   90.0000  bottom
+C2        22uF/0805/>=16V                          C_0805_2012Metric                         9.9060   -29.4640  -90.0000  bottom
+C3        100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        12.4460   -20.8280  -90.0000  bottom
+C4        100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        11.0998   -18.5674   90.0000  bottom
+C5        100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        11.0744   -20.8280   90.0000  bottom
+C6        100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        18.1610   -20.6730  -90.0000  bottom
+C7        100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        15.7734   -18.8722  180.0000  bottom
+C8        100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        16.1290   -20.7010   90.0000  bottom
+C9        100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        23.7474   -20.6730  -90.0000  bottom
+C10       100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        21.2074   -19.0500  180.0000  bottom
+C11       100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        21.7170   -20.7010   90.0000  bottom
+C12       100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        29.2116   -20.6730  -90.0000  bottom
+C13       100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        26.6700   -19.0500  180.0000  bottom
+C14       100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        27.0510   -20.7010   90.0000  bottom
+C15       100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        27.1780   -10.4140  -90.0000  bottom
+C16       10uF/0805/>=16V                          C_0805_2012Metric                        20.7518   -16.2814    0.0000  bottom
+C17       100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        14.0970   -20.8280  -90.0000  bottom
+C18       100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        19.6850   -20.5740  -90.0000  bottom
+C19       100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        25.2714   -20.5740  -90.0000  bottom
+C20       100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        30.4800   -20.6502  -90.0000  bottom
+C21       10uF/0805/>=16V                          C_0805_2012Metric                        20.7518   -14.1986    0.0000  bottom
+C22       100nF/0402/16V/X7R/<=10%/ceramic         C_0402_1005Metric                        15.8242   -10.2362  -90.0000  bottom
+C23       10uF/0603/>=16V                          C_0603_1608Metric                        20.5486    -8.5976  -90.0000  bottom
+C24       10uF/0603/>=16V                          C_0603_1608Metric                        20.5486   -11.6456   90.0000  bottom
+C25       22uF/0805/>=16V                          C_0805_2012Metric                        20.7518    -1.9050    0.0000  bottom
+C26       22uF/0805/>=16V                          C_0805_2012Metric                        20.7518    -3.9878    0.0000  bottom
+C27       22uF/0805/>=16V                          C_0805_2012Metric                        20.7620    -6.0706    0.0000  bottom
+D1        1A_Zener_Diode_/_>=1A_/_600_mV_Vf_@_1_A  D_SOD-323                                24.7650    -1.7780  180.0000  bottom
+L1        XFL4020-1.5μH                           L_Coilcraft_XxL4020                      23.9268   -10.1346   90.0000  bottom
+R1        30k_/_<=1%                               R_0402_1005Metric                        26.1874   -16.2052   90.0000  bottom
+R2        10k_/_<=1%                               R_0402_1005Metric                        26.1874   -14.3002   90.0000  bottom
+R3        120mΩ_/_0.5W_/_1206_/_<=1%              R_1206_3216Metric                        13.7414   -24.3840   90.0000  bottom
+R4        120mΩ_/_0.5W_/_1206_/_<=1%              R_1206_3216Metric                        11.1760   -24.3840   90.0000  bottom
+R5        120mΩ_/_0.5W_/_1206_/_<=1%              R_1206_3216Metric                        19.4310   -24.3840   90.0000  bottom
+R6        120mΩ_/_0.5W_/_1206_/_<=1%              R_1206_3216Metric                        16.8910   -24.3840   90.0000  bottom
+R7        120mΩ_/_0.5W_/_1206_/_<=1%              R_1206_3216Metric                        25.0189   -24.3840   90.0000  bottom
+R8        120mΩ_/_0.5W_/_1206_/_<=1%              R_1206_3216Metric                        22.4789   -24.3840   90.0000  bottom
+R9        120mΩ_/_0.5W_/_1206_/_<=1%              R_1206_3216Metric                        30.4988   -24.3840   90.0000  bottom
+R10       120mΩ_/_0.5W_/_1206_/_<=1%              R_1206_3216Metric                        27.9416   -24.3840   90.0000  bottom
+R11       10k_/_<=1%                               R_0402_1005Metric                        27.1780   -16.2052   90.0000  bottom
+R12       10k_/_<=1%                               R_0402_1005Metric                        17.5260   -13.3350  -90.0000  bottom
+R13       130k                                     R_0402_1005Metric                        17.2720    -7.7454  180.0000  bottom
+R14       30k_/_<=1%                               R_0402_1005Metric                        15.8242    -8.2280   90.0000  bottom
+U1        TPS63070_5V_2A_buck-boost                TPS630701RNMR                            17.9578   -10.1346    0.0000  bottom
+IC1       TMC7300                                  QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm    12.4460   -21.7214  180.0000  top
+IC2       TMC7300                                  QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm    18.1610   -21.7170  180.0000  top
+IC3       TMC7300                                  QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm    23.7474   -21.7170  180.0000  top
+IC4       TMC7300                                  QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm    29.2100   -21.7196  180.0000  top
+## End
