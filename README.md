@@ -23,10 +23,9 @@ Look here for more information and examples of robots: https://github.com/rcmgam
 
 Want slightly smaller with a built in IMU? Look at the [Nibble](https://github.com/RCMgames/RCM-Hardware-Nibble)
 
-![image of computer model of the board from the top](https://github.com/RCMgames/RCM-Hardware-BYTE/blob/067e820301f93f17813f3cc500efb27105b1fbe3/pictures/render%203.jpg)
-![image of computer model of the board from the bottom](https://github.com/RCMgames/RCM-Hardware-BYTE/blob/067e820301f93f17813f3cc500efb27105b1fbe3/pictures/render%202.jpg)
+[how to purchase](https://github.com/RCMgames/RCM-Hardware-BYTE/tree/main/how%20to%20purchase)
 
-To get boards made, send "gerbers" "ComponentPlacement" and "bill of materials" to a company like PCBWay. 
+![cad render of rcm byte](https://github.com/RCMgames/RCM-Hardware-BYTE/blob/a60da527574d34c0ef9a6985c87c70b8c1dc9320/CAD%20renders/render%201.jpg)
 
 Starting in fall 2023 I started thinking about making a smaller [RCM board](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide/tree/v1/Robot%20Control%20Module/circuit%20diagram%20and%20fritzing%20design).
 I wanted to find a microcontroller board that includes an esp32 chip instead of using an esp32 chip directly, in order to keep the project simpler and more likely to work – I didn’t want to have to design a circuit with an antenna.
