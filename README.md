@@ -23,7 +23,10 @@ Look here for more information and examples of robots: https://github.com/rcmgam
 
 Want slightly smaller with a built in IMU? Look at the [Nibble](https://github.com/RCMgames/RCM-Hardware-Nibble)
 
-[how to purchase](https://github.com/RCMgames/RCM-Hardware-BYTE/tree/main/how%20to%20purchase)
+## Options for purchasing
+
+* PCBWay link (coming soon, after testing is complete) (PCBWay will give me a commission without increasing the price for you). (approximately $90 for 2 boards and manufacturing took a month).
+* send the gerbers, bill of materials, and ComponentPlacement files to a PCB manufacturer of your choice (details you may be asked for: min hole: 0.25mm, min track/spacing 5/5mil, 1 oz Cu outer 1.5 oz Cu inner)
 
 ![cad render of rcm byte](https://github.com/RCMgames/RCM-Hardware-BYTE/blob/a60da527574d34c0ef9a6985c87c70b8c1dc9320/CAD%20renders/render%201.jpg)
 
