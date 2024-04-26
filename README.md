@@ -39,3 +39,5 @@ After looking at a few options I found the Trinamic TMC7300. https://www.analog.
 Each driver can control 2 motors, and up to 4 drivers can be controlled from just two pins from the QT Py.
 This means the new design can control 8 motors and still have enough pins to also run 8 servos. Because 8 bits is a byte and the boards are small and bite sized I named these boards RCM BYTE.
 
+## Acknowledgements
+* I would like to thank [PCBWay](https://www.pcbway.com/) for sponsoring prototyping runs of this project. PCBWay produces very nice boards, supports open source hardware, and gave me great support as I worked on this project. Special thanks to Liam!
