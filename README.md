@@ -3,7 +3,7 @@ v2.2
 
 UNDER DEVELOPMENT
 
-* 1.25x1.25 inches
+* 1.25 by 1.25 inches, 31.75 by 31.75 millimeters
 * 8 motors
 * 8 servos
 * battery monitoring
