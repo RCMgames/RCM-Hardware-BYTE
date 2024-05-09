@@ -1,5 +1,5 @@
 # RCM-Hardware-BYTE
-v2.2
+v2.3
 
 UNDER DEVELOPMENT
 

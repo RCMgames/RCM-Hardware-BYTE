@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.25,
-          "height": 3.0,
-          "width": 3.0
+          "drill": 0.9,
+          "height": 1.6,
+          "width": 1.6
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -65,8 +65,7 @@
         "pth_inside_courtyard|145465800|66422600|ef079197-3e2e-40fd-8fb6-e38040f4d8bb|b1bc320f-12e8-491e-abf1-8331711be4a5",
         "silk_edge_clearance|149292000|68607000|030d6ec7-8316-406c-9fd5-c72f53b0ea16|8a85d6ca-8c63-4929-b8cf-97c4e6c6c519",
         "silk_edge_clearance|169732000|68607000|030d6ec7-8316-406c-9fd5-c72f53b0ea16|31828256-419e-465b-8cad-481e1ffa7b31",
-        "silk_edge_clearance|170307000|59840018|030d6ec7-8316-406c-9fd5-c72f53b0ea16|c414a2b4-b079-449b-8470-3c0509ee7a64",
-        "starved_thermal|148463000|67271000|c2880171-a884-4ff9-b1e3-1e917c057042|3a853d3c-8305-4b59-b475-a1086d5f9c3b|B.Cu"
+        "silk_edge_clearance|170307000|59840018|030d6ec7-8316-406c-9fd5-c72f53b0ea16|c414a2b4-b079-449b-8470-3c0509ee7a64"
       ],
       "meta": {
         "version": 2
@@ -517,7 +516,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
