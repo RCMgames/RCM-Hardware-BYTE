@@ -28,7 +28,7 @@ Want slightly smaller with a built in IMU? Look at the [Nibble](https://github.c
 * [PCBWay link](https://www.pcbway.com/project/shareproject/RCMHardwareByte_v2_3_9de169f4.html) (PCBWay will give me a commission without increasing the price for you). (approximately $90 for 2 boards and manufacturing took a month).
 * send the gerbers, bill of materials, and ComponentPlacement files to a PCB manufacturer of your choice (details you may be asked for: min hole 0.25mm, min track/spacing 5/5mil, thickness 1.0mm, 1 oz Cu outer 1.5 oz Cu inner)
 
-![cad render of rcm byte](https://github.com/RCMgames/RCM-Hardware-BYTE/blob/a60da527574d34c0ef9a6985c87c70b8c1dc9320/CAD%20renders/render%201.jpg)
+![cad render of rcm byte](https://github.com/RCMgames/RCM-Hardware-BYTE/blob/ebda737293c7326ddddbba8f9b597b5e361799ac/CAD%20renders/top.jpg)
 
 Starting in fall 2023 I started thinking about making a smaller [RCM board](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide/tree/v1/Robot%20Control%20Module/circuit%20diagram%20and%20fritzing%20design).
 I wanted to find a microcontroller board that includes an esp32 chip instead of using an esp32 chip directly, in order to keep the project simpler and more likely to work – I didn’t want to have to design a circuit with an antenna.
